@@ -1,0 +1,17 @@
+{
+  "name": "tejas-first-cli",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "bin": {
+    "mytejas": "./app.js"
+  },
+  "author": "Tejas",
+  "license": "MIT",
+  "dependencies": {
+    "inquirer": "^6.3.1"
+  }
+}
